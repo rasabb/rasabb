@@ -2,13 +2,13 @@
 
 
 ### Hi there friend! 👋
-👉 I'm a DevOps/Cybersecurity Engineer based in Sweden🌍
+👉 I'm a DevOps/DBA Engineer based in Sweden🌍
 
 Here you will find my contributions to various open-source projects.
 
 Currently, i am:
 - 🌱 learning ReactJS
-
+- 🌱 learning NodeJS
 
 
 <!--
