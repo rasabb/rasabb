@@ -2,7 +2,7 @@
     
 **Senior Platform Engineer — Databases & Automation**
 
-I build and operate business-critical platforms, with a focus on **databases, infrastructure and automation**.
+I build and operate business-critical platforms, with a focus on **databases**, **infrastructure** and **automation**.
 
 ### What I work with
 
