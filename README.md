@@ -2,7 +2,7 @@
     
 **Senior Platform Engineer — Databases & Automation**
 
-I build and operate business-critical platforms, with a focus on **databases, infrastructure and automation.**.
+I build and operate business-critical platforms, with a focus on **databases, infrastructure and automation**.
 
 ### What I work with
 
@@ -18,6 +18,5 @@ I build and operate business-critical platforms, with a focus on **databases, in
 
 [Website](https://rashid.so) · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/rasabb) · [GitLab](https://gitlab.com/rasabb)
 
----
 
 > Automate repetitive work. Build for failure. Keep production boring.
