@@ -16,7 +16,7 @@ I build and operate business-critical platforms, with a focus on **databases**, 
 
 ### Find me
 
-[Website](https://rashid.so) · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/rasabb) · [GitLab](https://gitlab.com/rasabb)
+[Website](https://rashid.so) · [LinkedIn](https://www.linkedin.com/) · [GitLab](https://gitlab.com/rasabb)
 
 
 > Automate repetitive work. Build for failure. Keep production boring.
