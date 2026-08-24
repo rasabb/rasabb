@@ -1,27 +1,23 @@
-### Hi there 👋
+<h2> < Hello World, I'm <a href="https://www.linkedin.com/in/rasabb/" target="_blank">Rashid</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h2>
+    
+**Senior Platform Engineer — Databases & Automation**
+
+I build and operate business-critical platforms, with a focus on **databases, infrastructure and automation.**.
+
+### What I work with
+
+* 🗄️ **Databases** — SQL Server, PostgreSQL, MySQL
+* ⚙️ **Automation** — PowerShell, Ansible, Terraform, Python
+* ☁️ **Infrastructure** — Linux, Azure, AWS, Docker
+* 🔄 **Delivery** — GitLab CI/CD, GitHub Actions, Azure DevOps
+* 🔐 **Security & Operations** — IAM, PKI, hardening, backups
+* 🖥️ **Backend** — Node.js, APIs, application platforms
 
 
-### Hi there friend! 👋
-👉 I'm a DevOps/DBA Engineer based in Sweden🌍
+### Find me
 
-Here you will find my contributions to various open-source projects.
+[Website](https://rashid.so) · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/rasabb) · [GitLab](https://gitlab.com/rasabb)
 
-Currently, i am:
-- 🌱 learning ReactJS
-- 🌱 learning NodeJS
+---
 
-
-<!--
-**rasabb/rasabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Automate repetitive work. Build for failure. Keep production boring.
